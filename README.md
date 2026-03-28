@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/Batyrkhanes?style=social"/>
+
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-darkred"/>
   <img src="https://img.shields.io/badge/Projects-1-blue"/>
   <img src="https://img.shields.io/badge/License-MIT-green"/>

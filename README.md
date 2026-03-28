@@ -28,7 +28,7 @@ My goal is to become a skilled Purple team specialist and build real-world tools
 
 | Project | Info | What I Learned |
 |---------|------|----------------|
-| **[ESP32 WiFi Scanner](https://github.com/Batyrkhanes/Esp32_WScanner)**<br>Scan nearby WiFi networks | ![⏱️](https://img.shields.io/badge/⏱️_3--5h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Easy](https://img.shields.io/badge/●_Easy-green) | ESP32 basics • WiFi scanning • RSSI • Embedded systems |
+| **[ESP32 WiFi Scanner](https://github.com/Batyrkhanes/Esp32_WScanner)**<br>WiFi Vulnerability Scanner | ![⏱️](https://img.shields.io/badge/⏱️_3--5h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Easy](https://img.shields.io/badge/●_Easy-green) | ESP32 basics • WiFi scanning • RSSI • Embedded systems |
 ---
 
 ## 🎯 Goals

@@ -1,1 +1,1 @@
-![Esp32_WScanner](Cybersecurity-Projects/Screenshots/Esp32_WSCanner.jpeg)
+![Esp32_WScanner](../Screenshots/Esp32_WSCanner.jpeg)

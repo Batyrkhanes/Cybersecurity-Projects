@@ -1,6 +1,6 @@
 # Esp32 Wi-Fi Scanner
 <p align="center">
-  <img src="../Screenshots/logo.png" width="500">
+  <img src="../../Screenshots/logo.png" width="500">
 </p>
 
 This project is an ESP32-based Wi-Fi monitoring and analysis tool designed for basic cybersecurity research.
@@ -16,8 +16,8 @@ This project demonstrates fundamental concepts of traffic analysis, wireless mon
 ## 📸 Device Overview
 
 <p align="center">
-  <img src="../Screenshots/Esp32-WScanner.jpeg" width="400">
-  <img src="../Screenshots/Esp32_WScanner_inside.jpeg" width="400">
+  <img src="../../Screenshots/Esp32-WScanner.jpeg" width="400">
+  <img src="../../Screenshots/Esp32_WScanner_inside.jpeg" width="400">
 </p>
 
 ---

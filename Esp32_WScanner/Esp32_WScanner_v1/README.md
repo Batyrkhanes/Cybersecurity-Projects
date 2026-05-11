@@ -5,7 +5,7 @@
 
 This project is an ESP32-based Wi-Fi monitoring and analysis tool designed for basic cybersecurity research.
 
-It monitors wireless activity in real time, visualizes graph, and detect anomalies such as packet overflow. Tje system provides key metrics including packet count, packets per second (PPS), and signal strength (RSSI).
+It monitors wireless activity in real time, visualizes graph, and detect anomalies such as packet overflow. The system provides key metrics including packet count, packets per second (PPS), and signal strength (RSSI).
 
 Additionaly, it scans nearby Wi-Fi networks and displays detailed information such as MAC addresses, encryption types (WPA2, etc.), signal strength (RSSI), and a simple risk assessment (low, high). 
 

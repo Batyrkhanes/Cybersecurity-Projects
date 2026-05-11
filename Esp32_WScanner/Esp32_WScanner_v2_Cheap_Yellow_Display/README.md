@@ -5,7 +5,7 @@
 
 This project is an ESP32 Cheap Yellow Display-based Wi-Fi monitoring and analysis tool designed for basic cybersecurity research.
 
-It monitors wireless activity in real time, visualizes graph, and detect anomalies such as packet overflow. Tje system provides key metrics including packet count, packets per second (PPS), and signal strength (RSSI).
+It monitors wireless activity in real time, visualizes graph, and detect anomalies such as packet overflow. The system provides key metrics including packet count, packets per second (PPS), and signal strength (RSSI).
 
 Additionaly, it scans nearby Wi-Fi networks and displays detailed information such as MAC addresses, encryption types (WPA2, etc.), signal strength (RSSI), and a simple risk assessment (low, high). 
 
@@ -16,8 +16,8 @@ This project demonstrates fundamental concepts of traffic analysis, wireless mon
 ## 📸 Device Overview
 
 <p align="center">
-  <img src="../../Screenshots/Esp32-WScanner.jpeg" width="400">
-  <img src="../../Screenshots/Esp32_WScanner_inside.jpeg" width="400">
+  <img src="../../Screenshots/Esp32-WScannerv2-menu.jpeg" width="400">
+  <img src="../../Screenshots/Esp32-WScanner-WifiMonitor.jpeg" width="400">
 </p>
 
 ---

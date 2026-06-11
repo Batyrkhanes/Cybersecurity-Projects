@@ -1,6 +1,6 @@
 # Esp32 System Monitor
 <p align="center">
-  <img src="../../Screenshots/Esp32-SMonitor.jpeg" width="500">
+  <img src="../Screenshots/Esp32-SMonitor.jpeg" width="500">
 </p>
 
 A real-time system monitor that collects hardware statistics from a PC (Windows/Linux) using Python, C++ and visualizes them on an ESP32-based TFT display.

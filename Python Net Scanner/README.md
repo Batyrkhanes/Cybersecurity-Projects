@@ -1,7 +1,7 @@
 # Python Network Scanner
 
 <p align="center">
-  <img src="Screenshots/2026-07-09_16-03-12.png" width="900">
+  <img src="../Screenshots/2026-07-09_16-03-12.png" width="900">
 </p>
 
 A Network Scanner that displays IPs, MAC addresses, Vendors, Hostnames and open ports using Python libraries.

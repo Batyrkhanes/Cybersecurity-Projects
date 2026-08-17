@@ -1,8 +1,8 @@
 from pyfiglet import Figlet
-from network import netdisc
-from web import web
+from modules.network import netdisc
+from modules.web import web
 import argparse
-
+from modules.setup import setup
 
 f = Figlet(font='slant')
 print(f.renderText('Qevrix 1.0'))
@@ -45,11 +45,16 @@ def main():
         help="Path to the wordlist"
     )
 
-
+    subparsers.add_parser(
+    "setup",
+    help="Check and setup dependencies"
+)
     args = parser.parse_args()
 
     if args.command == "network":
         netdisc()
+    elif args.command == "setup":
+        setup()
 
     elif args.command == "web":
         web(args.url, args.wordlist)

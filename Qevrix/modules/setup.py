@@ -27,8 +27,9 @@ def setup():
     check_tools()
     choice = input("\nDo you want to install missing tools? (y/n): ")
     if choice.lower() == "y":
-        print() ########################
+        print() #not available yet
     elif choice.lower() == "n":
-        print("\n[+] Setup completed.")
+        print()
+    print("[+] Setup completed.")
     else:
         print("\n[!] Invalid choice. Please enter 'y' or 'n'.")

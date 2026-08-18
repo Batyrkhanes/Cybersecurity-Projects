@@ -12,7 +12,6 @@ print("="*50)
 print()
 
 def main():
-
     parser = argparse.ArgumentParser(
         prog="qevrix",
         description="Qevrix Security Toolkit"
